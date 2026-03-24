@@ -38,11 +38,10 @@ independently using tools like Postman or Thunder Client.
 ### 1. Clone the repository
 
 ```bash
-git clone <your-backend-repo-url> tasktide-backend
+git clone https://github.com/Annecrafted/tasktide.git
+cd tasktide
 cd tasktide-backend
 ```
-
-If the backend lives inside a larger project, just `cd` into the `tasktide-backend` folder.
 
 ### 2. Install dependencies
 

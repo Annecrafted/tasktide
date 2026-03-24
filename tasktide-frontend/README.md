@@ -45,11 +45,11 @@ Before running the frontend, make sure you have:
 ### 1. Clone the repository
 
 ```bash
-git clone <your-frontend-repo-url> tasktide-frontend
+git clone https://github.com/Annecrafted/tasktide.git
+cd tasktide
 cd tasktide-frontend
 ```
 
-If the frontend lives inside a larger project, just `cd` into the `tasktide-frontend` folder.
 
 ### 2. Install dependencies
 
